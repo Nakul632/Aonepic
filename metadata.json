@@ -1,0 +1,5 @@
+{
+  "name": "KwickPic Clone MVP",
+  "description": "A streamlined photo group management application built with React, Tailwind CSS, and Firebase. Features real-time Firestore synchronization and secure user-scoped data.",
+  "requestFramePermissions": []
+}
